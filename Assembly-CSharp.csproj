@@ -62,7 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Constants.cs" />
     <Compile Include="Assets\Scripts\FrogMovement.cs" />
+    <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\TestScript.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/2019.3.14f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
