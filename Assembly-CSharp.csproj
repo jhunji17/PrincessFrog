@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\FrogMovement.cs" />
     <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\TestScript.cs" />
+    <Compile Include="Assets\Scripts\Tongue.cs" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/2019.3.14f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
